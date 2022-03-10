@@ -10,13 +10,19 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-*Arthur Rocha
-*Fabíola Lourdes
-*Felipe Moreira
-*Livia Cristina 
-*Lucas Lemos
-*Raphael do Carmo Latini
-*Webert Figueiredo
+* Arthur Rocha
+
+* Fabíola Lourdes
+
+* Felipe Moreira
+
+* Livia Cristina 
+
+* Lucas Lemos
+
+* Raphael do Carmo Latini
+
+* Webert Figueiredo
 
 
 ## Orientador
