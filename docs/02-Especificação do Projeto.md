@@ -1,26 +1,111 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição precisa do problema e dos pontos mais relevantes deste projeto foi elaborada por meio de entrevistas com os usuários, além de observação de suas rotinas. O resultado deste processo foi consolidado em personas e histórias de usuários que estão listadas seguir.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas elaboradas no processo de compreeensão do problema estão listadas nas figuras a seguir:
+Rosana Martins	Informações:	
+ 	Idade: 64
+Ocupação: Aposentada e microempreendedora no
+ramo alimentício de salgados,doces e bolos	Aplicativos:
+● Instagram
+● Facebook
+● Blog
+Motivações:
+● Qualidade de vida
+● Cuidar dos netos	Frustrações:
+● Não ter investido no ramo alimentíciode
+maneira mais forte quando eu podia	Hobbies:
+● História
+● Cozinhar
+● Viajar
+Jéssica Silveira	Informações:	
+ 	Idade: 28
+Ocupação: Secretária e confeiteira
+(possui um micro negócio de venda doces)	Aplicativos:
+● Instagram
+● Facebook
+● Whatsapp
+Motivações:
+● Complementar sua
+renda vendendo doces
+● Praticar seu hobby
+de fazer doces	Frustrações:
+● Falta de emprego em sua área
+de formação da faculdade
+● Dificuldade em expandir seu negócio de venda
+de doces	Hobbies:
+● Fazer doces
+● Arte
+● Viajar
+Felipe Santos	Informações:	
+ 	Idade: 24
+Ocupação: Estudante	Aplicativos:
+● Whatsapp
+● Instagram
+● Tiktok
+Motivações:
+● Ajudar o negócio de
+pequenos empreendedores/
+produtores
+● Poder conhecer melhor os
+locais que vou pedir comida
+● Experimentar alternativas
+diferentes e talvez mais
+saudáveis à produtos mais
+industrializados
+	Frustrações:
+● Dificuldade em localizar pessoas próximas que
+façam os serviços
+● Dificuldade em comparar o preço e qualidade
+em relação a estabelecimentos maiores	Hobbies:
+● Assistir vídeos
+de culinária
+● Música
+● Natureza
+Fabiana Takeda	Informações:	
+ 	Idade: 38
+Ocupação: Advogada	Aplicativos:
+● Whatsapp
+● Gmail
+● Apps de Bancos
+Motivações:
+● Uma plataforma com
+preços menores que os
+grandes apps do segmento
+● Acesso a comida caseira
+● Conhecer e ajudar
+comerciantes da região
+em que vive	Frustrações:
+● Demora na entrega de alguns fornecedores
+● Dificuldade em encontrar fornecedores com
+bons produtos
+● Descrição de produtos não bate com a foto
+divulgada nos aplicativos muitas vezes	Hobbies:
+● Caminhar com o
+cachorro
+● Explorar a cidade
+● Pesquisar docerias
+Fernando Oliveira	Informações:	
+ 	Idade: 26
+Ocupação: Auxiliar de laboratório	Aplicativos:
+● Twitter
+● Instagram
+● Facebook
+Motivações:
+● Encontrar uma maneira
+rápida e fácil de saciar seu
+desejo de comer doces
+caseiros.	Frustrações: Não conhecer pessoas que vendam
+doces por unidade perto
+de sua casa ou trabalho.
+● Considerar os doces de padaria
+sem sabor.	Hobbies:
+● Jogar videogame
+● Assistir séries
+● Tocar violão
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
