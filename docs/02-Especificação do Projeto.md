@@ -31,22 +31,54 @@ As personas elaboradas no processo de compreeensão do problema estão listadas 
 |**Motivações:**<br>● Encontrar uma maneira <br> rápida e fácil de saciar seu <br> desejo de comer doces <br> caseiros.|**Frustrações:** Não conhecer pessoas que vendam <br> doces por unidade perto <br> de sua casa ou trabalho.<br>● Considerar os doces de padaria <br> sem sabor.|**Hobbies:**<br>● Jogar videogame<br>● Assistir séries <br>● Tocar violão|
 
 ## Histórias de Usuários
+Com base na interpretação da realidade das personas identificadas para este projeto por meio das informações coletadas, foram registradas as histórias de usuários listadas a seguir:
+EU COMO... PERSONA	QUERO/PRECISO ... FUNCIONALIDADE	PARA ... MOTIVO/VALOR
+Rosana Martins	Modernizar minha forma de vender
+meus produtos	Melhor aceitação no mercado
+Rosana Martins	Divulgar meus produtos de forma
+eficiente e com baixo custo.	Atingir o público certo no momento certo
+Rosana Martins	Realizar entrega através do delivery	Aumentar as vendas e o público atingido
+Jéssica Silveira	Uma plataforma que permita exibir
+meu cardápio de doces e expor
+melhor os meus produtos	Poder oferecer um catálogo mais intuitivo
+para o cliente
+Jéssica Silveira	Uma plataforma onde haja um sistema
+de pagamento e entrega unificados para
+meu catálogo de produtos	Poder concentrar as informações, sem
+precisar de muitos aplicativos diferentes
+Jéssica Silveira	Um aplicativo em que eu possa colocar a
+quantidade de produto que tenho disponível	Evitar que o cliente solicite mais do que
+consigo produzir e se frustre com o
+cancelamento posterior do pedido
+Felipe Santos	Localizar novos locais com melhor custo
+benefício e novas experiências	Pequenas lojas muitas vezes não aparecem
+nos aplicativos mais conhecidos
+do mercado
+Felipe Santos	Conhecer o modo de produção e a história
+de quem faz o produto	Acho importante saber mais sobre o produtor
+e sobre os diferenciais e qualidade
+do produto
+Felipe Santos	Ter alimentos com tempero caseiro sem ter
+que cozinhar	Maior praticidade e menos tempo gasto com
+preparo de refeições
+Fabiana Takeda	Ter acesso a uma plataforma de venda de
+alimentos prontos com preços/taxas menores
+que as maiores do segmento	Poder utilizar esse tipo de serviço com maior
+frequência, explorando um número maior de
+diferentes fornecedores
+Fabiana Takeda	Ter acesso a comida caseira	Praticar alimentação mais saudável mesmo
+quando não é possível cozinhar em casa
+Fabiana Takeda	Ter acesso facilitado a comerciantes da
+região em que vivo	Colaborar com a geração de renda desses
+pequenos empreendedores e valorizar a
+comunidade local
+Fernando Oliveira	Poder visualizar os vendedores de doces
+caseiros mais próximos.	Permitir localizar vendedores com os
+menores tempos de entrega.
+Fernando Oliveira	Um lugar onde encontre pessoas que produzam
+alimentos de modo tradicional/ caseiro.	Ter acesso a alimentos preparados com maior
+cuidado, bem elaborados e saborosos.
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
