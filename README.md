@@ -1,12 +1,12 @@
-# TÍTULO DO PROJETO
+# Plataforma de venda de alimentos prontos por microempreendedores
 
-`CURSO`
+`CURSO`Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+`DISCIPLINA` Projeto: Desenvolvimento de Aplicação Interativa desenvolvimento back-end
 
-`SEMESTRE`
+`SEMESTRE` 2º Semestre (2022/1)
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Plataforma destinada a clientes que desejam localizar e comprar produtos alimentícios produzidos por microempreendedores do ramo próximos à sua localidade. Tem como objetivo fornecer a fácil inserção de microempreendedores do ramo alimentício no ambiente online através do cadastro de sua loja na plataforma e permitir que possíveis clientes interessados tenham acesso ao seu catálogo de produtos e possam realizar pedidos online.
 
 ## Integrantes
 
