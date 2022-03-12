@@ -31,103 +31,68 @@ As personas elaboradas no processo de compreeensão do problema estão listadas 
 |**Motivações:**<br>● Encontrar uma maneira <br> rápida e fácil de saciar seu <br> desejo de comer doces <br> caseiros.|**Frustrações:** Não conhecer pessoas que vendam <br> doces por unidade perto <br> de sua casa ou trabalho.<br>● Considerar os doces de padaria <br> sem sabor.|**Hobbies:**<br>● Jogar videogame<br>● Assistir séries <br>● Tocar violão|
 
 ## Histórias de Usuários
+
 Com base na interpretação da realidade das personas identificadas para este projeto por meio das informações coletadas, foram registradas as histórias de usuários listadas a seguir:
-EU COMO... PERSONA	QUERO/PRECISO ... FUNCIONALIDADE	PARA ... MOTIVO/VALOR
-Rosana Martins	Modernizar minha forma de vender
-meus produtos	Melhor aceitação no mercado
-Rosana Martins	Divulgar meus produtos de forma
-eficiente e com baixo custo.	Atingir o público certo no momento certo
-Rosana Martins	Realizar entrega através do delivery	Aumentar as vendas e o público atingido
-Jéssica Silveira	Uma plataforma que permita exibir
-meu cardápio de doces e expor
-melhor os meus produtos	Poder oferecer um catálogo mais intuitivo
-para o cliente
-Jéssica Silveira	Uma plataforma onde haja um sistema
-de pagamento e entrega unificados para
-meu catálogo de produtos	Poder concentrar as informações, sem
-precisar de muitos aplicativos diferentes
-Jéssica Silveira	Um aplicativo em que eu possa colocar a
-quantidade de produto que tenho disponível	Evitar que o cliente solicite mais do que
-consigo produzir e se frustre com o
-cancelamento posterior do pedido
-Felipe Santos	Localizar novos locais com melhor custo
-benefício e novas experiências	Pequenas lojas muitas vezes não aparecem
-nos aplicativos mais conhecidos
-do mercado
-Felipe Santos	Conhecer o modo de produção e a história
-de quem faz o produto	Acho importante saber mais sobre o produtor
-e sobre os diferenciais e qualidade
-do produto
-Felipe Santos	Ter alimentos com tempero caseiro sem ter
-que cozinhar	Maior praticidade e menos tempo gasto com
-preparo de refeições
-Fabiana Takeda	Ter acesso a uma plataforma de venda de
-alimentos prontos com preços/taxas menores
-que as maiores do segmento	Poder utilizar esse tipo de serviço com maior
-frequência, explorando um número maior de
-diferentes fornecedores
-Fabiana Takeda	Ter acesso a comida caseira	Praticar alimentação mais saudável mesmo
-quando não é possível cozinhar em casa
-Fabiana Takeda	Ter acesso facilitado a comerciantes da
-região em que vivo	Colaborar com a geração de renda desses
-pequenos empreendedores e valorizar a
-comunidade local
-Fernando Oliveira	Poder visualizar os vendedores de doces
-caseiros mais próximos.	Permitir localizar vendedores com os
-menores tempos de entrega.
-Fernando Oliveira	Um lugar onde encontre pessoas que produzam
-alimentos de modo tradicional/ caseiro.	Ter acesso a alimentos preparados com maior
-cuidado, bem elaborados e saborosos.
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Rosana Martins      | Modernizar minha forma de vender<br> meus produtos| Melhor aceitação no mercado |
+|Rosana Martins      | Divulgar meus produtos de forma <br> eficiente e com baixo custo.| Atingir o público certo no momento certo |
+|Rosana Martins      | Realizar entrega através do delivery | Aumentar as vendas e o público atingido |
+|Jéssica Silveira    | Uma plataforma que permita exibir <br> meu cardápio de doces e expor <br> melhor os meus produtos| Poder oferecer um catálogo mais intuitivo <br> para o cliente |
+|Jéssica Silveira    | Uma plataforma onde haja um sistema <br> de pagamento e entrega unificados para <br> meu catálogo de produtos | Poder concentrar as informações, sem <br> precisar de muitos aplicativos diferentes |
+|Jéssica Silveira    | Um aplicativo em que eu possa colocar a <br> quantidade de produto que tenho disponível | Evitar que o cliente solicite mais do que <br> consigo produzir e se frustre com o <br> cancelamento posterior do pedido |
+|Felipe Santos       | Localizar novos locais com melhor custo <br> benefício e novas experiências | Pequenas lojas muitas vezes não aparecem <br> nos aplicativos mais conhecidos <br> do mercado |
+|Felipe Santos       | Conhecer o modo de produção e a história <br> de quem faz o produto | Acho importante saber mais sobre o produtor <br> e sobre os diferenciais e qualidade <br> do produto  |
+|Felipe Santos       | Ter alimentos com tempero caseiro sem ter <br> que cozinhar | Maior praticidade e menos tempo gasto com <br> preparo de refeições |
+|Fabiana Takeda      | Ter acesso a uma plataforma de venda de <br> alimentos prontos com preços/taxas menores <br> que as maiores do segmento | Poder utilizar esse tipo de serviço com maior <br> frequência, explorando um número maior de <br> diferentes fornecedores |
+|Fabiana Takeda      | Ter acesso a comida caseira  | Praticar alimentação mais saudável mesmo <br> quando não é possível cozinhar em casa |
+|Fabiana Takeda      | Ter acesso facilitado a comerciantes da <br> região em que vivo | Colaborar com a geração de renda desses <br> pequenos empreendedores e valorizar a <br> comunidade local |
+|Fernando Oliveira   | Poder visualizar os vendedores de doces <br> caseiros mais próximos. | Permitir localizar vendedores com os <br> menores tempos de entrega. |
+|Fernando Oliveira   | Um lugar onde encontre pessoas que produzam <br> alimentos de modo tradicional/ caseiro. | Ter acesso a alimentos preparados com maior <br> cuidado, bem elaborados e saborosos. |
 
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Os requisitos do projeto descrevem as características necessárias para alcançar a solução do problema apresentado de modo satisfatório, delimitando assim o escopo funcional do projeto. Os requisitos podem ser divididos em requisitos funcionais, que descrevem as funcionalidades que o sistema deve apresentar para possibilitar a interação dos usuários, e em requisitos não-funcionais, que descrevem as qualidades que o sistema e suas funcionalidades devem apresentar para sua aceitação. Os requisitos funcionais e não funcionais do projeto são apresentados nas tabelas a seguir.
 
 ### Requisitos Funcionais
-
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O site deve apresentar um mecanismo de busca que permita ao consumidor localizar microempreendedores cadastrados que produzam e entreguem os produtos desejados para sua localização. | ALTA | 
+|RF-002| O site deve permitir que o usuário crie uma conta para salvar suas informações (local de entrega, meios de pagamento, histórico de pedidos, etc). | ALTA | 
+|RF-003| O site deve apresentar uma página individual de cada microempreendedor com seus produtos e informações relevantes| ALTA |
+|RF-004| O site deve permitir ao usuário visualizar todas a redes sociais e contatos disponibilizados pelos vendedores | MÉDIA |
+|RF-005| O site deve permitir que o consumidor salve como favorito, produtos ou vendedores. | BAIXA |
+|RF-006| O site deve apresentar na página principal sugestões de microempreendedores alimentícios na região do usuário  | MÉDIA |
+|RF-007| O site deve permitir que o microempreendedor submeta as informações sobre seu modelo de negócio, redes sociais e informações de contato para serem mostradas no “mini-website” | ALTA|
+|RF-008| O site deve permitir que microempreendedor cadastre seus produtos e forneça possíveis informações relevantes sobre os mesmos para constar na descrição | ALTA |
+|RF-009| A plataforma deve fornecer ao microempreendedor opções de customização para seu “mini-website”, como a inserção de fotos de apresentação dos produtos, e de um vídeo-apresentação do negócio (podendo ser inserido por meio de link para vídeo hospedado em plataforma de vídeo) | MÉDIA |
+|RF-010| O site deve permitir que o usuário cadastrado adicione os produtos de um vendedor a um carrinho de compras e submeta um pedido de compra. | ALTA |
+
 
 ### Requisitos não Funcionais
 
+A tabela abaixo contém os requisitos não funcionais do projeto, também acompanhados de sua prioridade de entrega.
+
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001|  processo de cadastro de vendedores deve ser fácil e intuitivo, com pelo menos 90% dos usuários que iniciam uma tentativa de cadastro sendo capazes de completar o processo sem solicitar ajuda na plataforma | ALTA | 
+|RNF-002| O processo de colocar informações no “mini-website” deve ser simples e descomplicado, tanto para o cadastro dos produtos quanto para as sessões contendo descrição do negócio, contato, vídeo de apresentação e mídias sociais. O número de reclamações ou solicitações de ajuda na plataforma referentes a essas funcionalidades não pode ultrapassar 10% | ALTA |
+|RNF-003| O site deve possuir um certificado SSL | ALTA |
+|RNF-004| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) | ALTA |
+|RNF-005| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada | ALTA |
+|RNF-006| O site deve ter bom nível de contraste entre os elementos da tela em conformidade | MÉDIA |
+|RNF-007| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) | ALTA |
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+A tabela abaixo contém a a lista das questões que limitam a execução do projeto e que portanto impõem obrigações claras para seu desenvolvimento.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
@@ -139,5 +104,6 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 > - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
 > - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
 > - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
+> - [Astah](https://astah.net/)[casos-de-uso.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t2-plataforma-de-venda-de-alimentos/files/8238661/casos-de-uso.pdf)
+
 > - [Diagrams](https://app.diagrams.net/)
