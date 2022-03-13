@@ -1,0 +1,1314 @@
+/* Geral */
+
+.no-decoration a:hover {
+    text-decoration: none;
+}
+.black-link {
+    color: #000000;
+}
+.black-link:hover {
+    color: #888888;
+    text-decoration: none;
+}
+.h4_sub {
+    font-size: 1.25em;
+    font-weight: 500;
+}
+.h4_text {
+    font-size: 1.00em;
+    font-weight: 500;
+}
+.small_text {
+    font-size: 14px;
+    font-weight: 400;
+}
+.center_padding {
+    text-align: center;
+    padding: 16px;
+}
+.form_label {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0px;
+    margin-top: 8px;
+    padding: 2px;
+}
+.bottom_border_dark {
+    border-bottom: 1px solid #ced4da;
+}
+.space_left {
+    margin-left: 2%;
+}
+.nao_encontrado {
+    padding: 8px; 
+    margin-bottom: 320px;
+}
+.spacer {
+    height: 60px;
+}
+.no_word_wrap {
+    white-space: nowrap;
+}
+.bottom_right {
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
+}
+.bottom_border_menu {
+    margin-top: 12px;
+}
+.bottom_border_menu label {
+    margin: 0px;
+}
+.menu_usuario_info {
+    position: absolute;
+    left: 45%;
+    margin-top: 1px;
+}
+.menu_usuario_input {
+    position: absolute;
+    left: 45%;
+    width: 180px;
+    margin-top: -2px;
+    height: 24px;
+}
+.menu_usuario_botao_alterar {
+    position: absolute;
+    right: 16px;
+    margin-top: 2px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #888888;
+    background: none;
+    border: none;
+}
+#menu_dados_usuario_repetir_senha_hide, #menu_dados_usuario_senha_antiga_hide, #menu_dados_usuario_confirmar_senha_hide, #forma_entrega_endereco_preco_hide {
+    display: none;
+}
+.confirmar {
+    padding-left: 16px;
+    font-size: 14px;
+}
+.layout_historico_box {
+    background-color: #f8f8f8;
+    border-left: 1px solid #ced4da;
+    border-right: 1px solid #ced4da;
+}
+.layout_historico {
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-top: 16px;
+    border-top: 1px solid #ced4da;
+    border-bottom: 1px solid #ced4da;
+}
+.layout_historico_info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+    margin-bottom: 4px;
+}
+.detalhes_pedido button {
+    padding: 0px;
+    margin-right: 8px;
+}
+#botao_repetir_pedido {
+    padding: 2px;
+    margin: 4px;
+}
+.card_vendedor_favoritos {
+    height: 300px;
+    width: 240px;
+    margin-right: 20px; 
+}
+.card_vendedor_favoritos img { 
+    height: 120px;
+    width: 180px;
+    border-radius: 5px;
+    margin-top: 6px;
+}
+.descricao_busca_vendedores_favoritos { 
+    height: 235px;
+    overflow: hidden;
+}
+.card_vendedor_favoritos_produto {
+    height: 240px;
+    width: 240px;
+    margin-right: 20px; 
+}
+.card_vendedor_favoritos_produto img { 
+    height: 120px;
+    width: 120px;
+    border-radius: 5px;
+    margin-top: 6px;
+}
+
+.lista_favoritos {
+    position: relative;
+    text-align: justify;
+    display: flex;
+    padding: 16px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    height: 235px;
+    border-bottom: 1px solid #dddddd;
+    border-top: 1px solid #dddddd;
+}
+
+.lista_favoritos_vendedor {
+    height: 300px;
+}
+
+.lista_favoritos button {
+    position: absolute;
+    bottom: 6px;
+    right: 6px;
+}
+
+#botao_remover_favoritos {
+    right: 145px;
+}
+
+#credit_icon {
+    color: #ced4da;
+    margin-left: 16px;
+}
+
+.plus-circle {
+    color: #ced4da;
+    margin-top: 120px;
+}
+
+/* Informações visíveis apenas para usuários do tipo vendedor */
+.opcao_vendedor {
+    display: none;
+}
+/* ----- */
+
+/* Header */
+.conteudo_header img {
+    height: 26px;
+}
+.itens_menu {
+    margin-left: -30px;
+}
+.itens_menu i {
+    width: 28px;
+    margin-top: 5px;
+    margin-left: -20px;
+}
+.itens_menu a {
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 6px;
+    text-align: left;
+    background-color: #ffffff;
+    border: 1px;
+    border-radius: 5px;
+    border-color: #343a40;
+}
+#header_sobrescrito_conta {
+    margin-left: -5px;
+    margin-top: -14px;
+    position: absolute;
+}
+#header_sobrescrito {
+    margin-left: -3px;
+    margin-top: -14px;
+    position: absolute;
+}
+.caixa_endereco {
+    max-width: 200px;
+    min-width: 120px;
+    margin-right: 12px;
+    text-align: left;
+    white-space:nowrap;
+    overflow: hidden;
+}
+.caixa_usuario {
+    min-width: 120px;
+    max-width: 150px;
+    text-align: left;
+    white-space:nowrap;
+    overflow: hidden;
+}
+.navDrop-logado {
+    display: none;
+}
+.modal-body {
+    overflow: hidden;
+    flex-wrap: wrap;
+}
+#endereco_icone {
+    margin-right: -4px;
+    margin-top: -18px;
+}
+.location_web {
+    margin-top: 8px;
+   }
+.location_mobile {
+    display: none;
+}
+
+/* ----- */
+
+/* Main */
+
+#conteudo_pagina {
+    background-color: #f8f8f8;
+    color: #222222;
+    padding: 0px;
+    text-align: center;
+}
+
+/* ----- */
+
+/* Footer */
+
+#conteudo_footer {
+    background-color: #eeeeee;
+    color: #222222;
+    padding: 0px;
+    padding-top: 24px;
+    text-align: center;
+
+}
+/* ----- */
+
+/* Homepage(Index.html) */
+
+#busca_homepage {
+    margin-top: 24px;
+    background-color: #eeeeee;
+    border-radius: 12px;
+    height: 80px;
+    width: 100%;
+}
+#busca_homepage input {
+    height: 48px;
+    margin-top: 16px;
+}
+#busca_homepage button {
+    background-color: #ffffff;
+    border-color: #ced4da;
+    height: 48px;
+    width: 48px;
+    margin-top: 16px;
+}
+#busca_homepage button:hover {
+    background-color: #dddddd;
+}
+#busca_homepage i {
+    color: #222222;
+    height: 32px;
+    width: 32px;
+    margin-left: -5px;
+    margin-top: 2px;
+}
+
+/* ----- */
+
+/* Carrossel da Homepage (index.html) */
+
+#recomendacoes {
+    background-color: #ffffff;
+}
+#recomendacoes a {
+    color: #222222;
+}
+#recomendacoes a img:hover {
+    transform: scale(105%) translateY(-2%);
+    transition: 100ms ease-in-out;
+    box-shadow: 5px 5px 8px #888888;
+}
+.carrossel-conteudo {
+    margin-top: 16px;
+    display: inline-block;
+    position: relative;
+    height: 295px;
+    width: 100%;
+    overflow: hidden;
+}
+.carrossel-seta-left {
+    width: 8px;
+    position: absolute;
+    left: 3px;
+    top: 40%;
+}
+.carrossel-seta-left i {
+    margin-left: -17px;
+}
+.carrossel-seta-right {
+    width: 8px;
+    position: absolute;
+    right: 3px;
+    top: 40%;
+}
+.carrossel-seta-right i {
+    margin-left: -2px;
+}
+.carrossel_item a {
+    transition: 200ms ease-in-out;
+}
+#carrossel_item0 a {
+    position: absolute;
+    width: 350px;
+    left: 50%;
+    margin-left: -921px;
+    bottom: 0px;
+}
+#carrossel_item0 img {
+    height: 233px;
+    width: 350px;
+    border:2px solid #dddddd;
+    border-radius: 8px;
+}
+#carrossel_item1 a {
+    position: absolute;
+    width: 350px;
+    left: 50%;
+    margin-left: -548px;
+    bottom: 0px;
+}
+#carrossel_item1 img {
+    height: 233px;
+    width: 350px;
+    border:2px solid #dddddd;
+    border-radius: 8px;
+}
+#carrossel_item2 a {
+    position: absolute;
+    width: 350px;
+    left: 50%;
+    margin-left: -175px;
+    bottom: 0px;
+}
+#carrossel_item2 img {
+    height: 233px;
+    width: 350px;
+    border:2px solid #dddddd;
+    border-radius: 8px;
+}
+#carrossel_item3 a {
+    position: absolute;
+    width: 350px;
+    left: 50%;
+    margin-left: 198px;
+    bottom: 0px;
+}
+#carrossel_item3 img {
+    height: 233px;
+    width: 350px;
+    border:2px solid #dddddd;
+    border-radius: 8px;
+}
+#carrossel_item4 a {
+    position: absolute;
+    width: 350px;
+    left: 50%;
+    margin-left: 571px;
+    bottom: 0px;
+}
+#carrossel_item4 img {
+    height: 233px;
+    width: 350px;
+    border:2px solid #dddddd;
+    border-radius: 8px;
+}
+
+/* ----- */
+
+/* Página de login (login.html) */
+
+.logo_login {
+    padding: 10px;
+    background-color: #343a40;
+    width: 300px;
+    margin-top: 16px;
+    border-radius: 12px;
+    border: 1px solid #222222;
+    text-align: center;
+}
+.logo_login img {
+    width: 256px;
+}
+#login { 
+    text-align: center;
+    margin-top: 32px;
+    padding: 32px;
+    width: 360px;
+    background-color: #eeeeee;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    line-height: 32px;
+}
+#login input { 
+    height: 48px;
+    margin-bottom: 16px;
+}
+#login button { 
+    margin-top: 16px;
+    margin-bottom: 8px;
+    width: 100%;
+    font-size: 21px;
+}
+
+/* ----- */
+
+/* Página de Cadastro (cadastro.html) */
+
+#cadastro { 
+    text-align: center;
+    margin-top: 32px;
+    padding: 16px;
+    width: 360px;
+    background-color: #eeeeee;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    line-height: 32px;
+}
+
+/* ----- */
+
+/* Pagina de busca (busca.html) */
+
+.display_resultados { 
+    display: grid;
+    grid-template-columns: 330px auto;
+    margin-bottom: 16px;
+}
+.opcoes_busca { 
+    background-color: #f8f8f8;
+    margin-top: 10px;
+    padding: 32px;
+    padding-top: 16px;
+    width: 320px;
+    height: 640px;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+}
+.resultado_busca {
+    position: relative;
+    text-align: justify;
+    display: flex;
+    padding: 16px;
+    padding-top: 32px;
+    margin-top: 10px;
+    height: 240px;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+}   
+.resultado_busca a {
+    color: #222222;
+}
+.descricao_busca { 
+    height: 165px;
+    overflow: hidden;
+}
+.card_vendedor {
+    height: 240px;
+    width: 240px;
+    margin-right: 20px; 
+}
+.card_vendedor img { 
+    height: 160px;
+    width: 240px;
+    border-radius: 5px;
+}
+.avaliacao_texto {
+    position: absolute;
+    width: 196px;
+    right: 64px;
+    bottom: 2px;
+    font-size: 18px;
+}
+.avaliacao {
+    overflow: hidden;
+    position: absolute;
+    width: 112px;
+    right: 4px;
+    bottom: 2px;
+}
+.avaliacao img {
+    width: 107px;
+    margin: 4px;
+    margin-top: -2px;
+}
+
+/* ----- */
+
+/* gerenciar mini-website do vendedor (gerenciar-mini-website.html) */
+
+#gerenciar_mini_website_informacoes {
+    font-size: 16px;
+    text-align: justify;
+    padding-top: 32px;
+    padding-bottom: 16px;
+    flex-wrap:nowrap;
+    min-height: 600px;
+}
+#gerenciar_mini_website_informacoes img {
+    height: 240px;
+    width: 360px;
+    margin: 6px;
+    border: 1px solid #888888;
+    border-radius: 12px;
+    float: left;
+}
+
+#gerenciar_mini_website_informacoes textarea {
+    resize: none;
+    padding-left: 10px;
+    padding-top: 6px;
+}
+
+#gerenciar_mini_website_informacoes_imagem_descricao {
+    display: grid;
+    grid-template-columns: 384px auto;
+}
+
+#texto_gerenciar_mini_website {
+    width: 100%;
+    height: 360px;
+    margin-top: 6px;
+}
+
+#texto_gerenciar_mini_website_resumo {
+    width: 100%;
+    height: 240px;
+    margin-top: 6px;
+}
+
+#mudar_imagem_loja {
+    height: 100%;
+    width: 360px;
+    margin: 6px;
+    margin-bottom: 0px;
+    padding: 0;
+}
+
+#mudar_imagem_produto_container, #gerenciar_produto_nome {
+    padding-right: 20px;
+}
+
+#mudar_imagem_produto {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    margin-right: 6px;
+    padding: 0;
+}
+.gerenciar_input {
+    width: 600px;
+    max-width: 80%;
+}
+.btn_margin {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.input_reais_centavos {
+    text-align: right;
+    padding-right: 20px;
+    margin-bottom: 32px;
+}
+
+.input_reais_centavos input {
+    width: 48px;
+}
+#gerenciar_produto_nome input {
+    width: 100%;
+}
+
+#gerenciar_produto_descricao textarea {
+    resize: none;
+    width: 100%;
+    height: 118px;
+}
+#gerenciar_sabores_produto input {
+    height: 30px;
+    width: 120px;
+    margin-bottom: 12px;
+}
+#gerenciar_sabores_produto button {
+    padding: 2px;
+    margin-bottom: 6px;
+}
+.gerenciar_sabores_lista {
+    width: 100%;
+    padding: 3px;
+    background-color: #ffffff;
+    border: 1px solid #767676;
+    border-radius: 5px;
+    margin: 4px;
+}
+#gerenciar_opcoes_pagamento {
+    position: relative;
+    background-color: #f8f8f8;
+    border: 1px solid #ced4da;
+    padding: 16px;
+    margin: auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border-radius: 5px;
+    height: 600px;
+    width: 480px;
+}
+#gerenciar_mini_website_vendas li {
+    background-color: #f8f8f8;
+}
+/* > Geral  */
+.nav_mini_website { 
+    padding: 0px;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    white-space: nowrap;
+    margin-left: -200px;
+}
+
+.nav_mini_website button { 
+    margin: 10px;
+    width: 140px;
+    padding: 0px;
+    height: 60px;
+    color: #343a40;
+}
+
+#container_nav_mini_website {
+    margin-top: 24px;
+    padding: 0px;
+    border-radius: 12px;
+    height: 80px;
+    width: 100%;
+}
+.botao_nav_mini_website {
+    font-size: 21px;
+    background-color: #f8f8f8;
+    border: none;
+    border-radius: 20px;
+    font-weight: 500;
+}
+.botao_nav_mini_website:hover {
+    background-color: #ced4da;
+}
+#mini_website_nome_loja {
+    margin-top: 48px;
+    margin-bottom: 0.5rem; 
+    display: inline-block; 
+    position: relative;
+}
+#mini_website_botao_favoritos {
+    position: absolute; 
+    right: 4%;
+    top: 8px;
+}
+#carrinho_contador_box {
+    position: relative;
+}
+#carrinho_contador {
+    position: absolute;
+    background-color: blue;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    left: 20px;
+    bottom: -12px;
+    display: none;
+}
+#carrinho_contador p {
+    margin: auto;
+    font-weight: 200;
+    color: white;
+}
+/* > Quem somos */
+
+#mini_website_quem_somos, #mini_website_redes_sociais {
+    font-size: 16px;
+    text-align: justify;
+    padding-top: 24px;
+    padding-bottom: 16px;
+    flex-wrap:nowrap;
+    min-height: 600px;
+}
+#mini_website_quem_somos img {
+    height: 240px;
+    width: 360px;
+    margin-right: 12px;
+    margin-bottom: 12px;
+    border-radius: 12px;
+    float: left;
+}
+#mini_website_quem_somos p {
+    text-align: justify;
+    text-indent: 2em;
+}
+
+#video_apresentacao {
+   height: 594px;
+   width: 100%;
+   max-width: 880px;
+}
+
+/* > Produtos */
+
+#mini_website_produtos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(310px, auto));
+    min-height: 600px;
+}
+.card_produto {
+    position: relative;
+    height: 450px;
+    width: 300px;
+    margin: auto;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    box-shadow: 4px 4px 6px #ced4da;
+}
+.card_produto:hover {
+    transition: 100ms ease-in-out;
+    box-shadow: 4px 4px 6px #aaaaaa;
+}
+.card_produto img {
+    height: 260px;
+    width: 260px;
+    margin: 20px;
+    margin-bottom: 4px;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+}
+.card_produto_descricao {
+    margin: 20px;
+    margin-top: 0px;
+    text-align: justify;
+}
+.card_produto_descricao p {
+    font-size: 14px;
+}
+.card_produto_preco {
+    font-size: 18px;
+    position: absolute;
+    bottom: 6px;
+    left: 20px;
+}
+.card_produto_detalhes {
+    position: absolute;
+    bottom: 4px;
+    right: 4px;
+}
+.card_produto_detalhes button {
+    padding: 4px;
+}
+
+/* > Produtos > Modal de detalhes do produto */
+
+#modal_mais_detalhes {
+    width: 960px;
+    min-height: 640px;
+    max-height: 870px;
+    top: 60px;
+    left: 50%;
+    margin-left: -472px;
+    margin-bottom: 16px;
+    background-color: #eeeeee;
+}
+#modal_botao_favoritos {
+    position: absolute; 
+    right: 64px;
+}
+#modal_botao_adicionar_produto {
+    position: absolute; 
+    right: 32px;
+    bottom: 32px;
+}
+#modal_informacoes_produto {
+    padding: 32px;
+    display: grid;
+    grid-template-columns: 272px auto;
+}
+#modal_informacoes_produto img {
+    height: 232px;
+    width: 232px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+}
+.informacoes_nome_produto {
+    margin-bottom: 6px;
+}
+#informacoes_preco_produto {
+    font-size: 18px;
+}
+#informacoes_descricao_produto {
+    height: 240px;
+}
+#informacoes_sabores_produto {
+    height: 120px;
+    overflow: hidden;
+}
+#informacoes_adicionar_carrinho {
+    display: none;
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+    height: 270px;
+    width: 670px;
+    padding: 12px;
+    background-color: #ffffff;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+}
+#informacoes_adicionar_carrinho p {
+    font-size: 18px;
+    line-height: 100%;
+}
+#informacoes_adicionar_carrinho img {
+    height: 216px;
+    width: 216px;
+}
+#informacoes_adicionar_carrinho textarea {
+    margin-top: -20px;
+    width: 376px;
+    height: 60px;
+    resize: none;
+}
+.informacoes_botao_adicionar_produto {
+    position: absolute; 
+    right: 32px;
+    bottom: 32px;
+    margin-right: -17px;
+    margin-bottom: -17px;
+}
+#card_adicionar_produto {
+    display: grid;
+    grid-template-columns: 240px auto;
+}
+.selecionar_sabor {
+    width: 160px;
+    margin-right: 8px;
+}
+.selecionar_quantidade {
+    width: 48px;
+}
+#container_informacoes_botao_adicionar_produto button {
+  position: absolute;
+  right: 15px;
+  bottom: 15px;  
+}
+/* ----- */
+
+/* Carrinho */
+#mini_website_carrinho {
+    display: grid;
+    grid-template-columns: auto 400px;
+}
+#container_lista_carrinho {
+    margin-top: 12px;
+}
+#lista_carrinho {
+    position: relative;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    width: 400px;
+    min-height: 600px;
+    margin-bottom: 16px;
+    padding-bottom: 160px;
+}
+#lista_carrinho_bottom {
+    position: absolute;
+    text-align: right;
+    bottom: 0px;
+    left: 2.5%;
+    height: 120px;
+    width: 95%;
+    border-top: 1px solid #aaaaaa;
+    margin-top: 12px;
+}
+#lista_carrinho_bottom button {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    height: 64px;
+    width: 100%;
+    font-size: 21px;
+    border-top: 1px solid #aaaaaa;
+}
+.produto_carrinho {
+    position: relative;
+    display: grid;
+    grid-template-columns: 108px auto;
+    padding: 4px;
+    height: 118px;
+    border-bottom: 1px solid #ced4da;
+}
+.produto_carrinho img {
+    height: 96px;
+    width: 96px;
+    margin: 6px;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+}
+.produto_carrinho button {
+    color: #888888;
+    font-size: 14px;
+    font-weight: 500;
+    position: absolute;
+    padding: 2px;
+    right: 0px;
+    bottom: 0px;
+}
+#produto_carrinho_centro {
+    width: 228px;
+    overflow: hidden;
+}
+#produto_carrinho_nome {
+    font-size: 20px;
+    font-weight: 500;
+}
+#produto_carrinho_preco {
+    position: absolute;
+    right: 2px;
+    top: 2px;
+}
+#produto_carrinho_sabor, #produto_carrinho_quantidade, #produto_carrinho_comentarios {
+    font-size: 12px;
+}
+#carrinho_adicionar_produtos {
+    width: 98%;
+    max-width: 720px;
+    margin-top: 12px;
+    margin-right: 12px;
+}
+#carrinho_card_adicionar_produto {
+    display: grid;
+    grid-template-columns: 200px auto;
+    position: relative;
+    padding: 20px;
+    min-height: 280px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    margin-bottom: 12px;
+}
+#carrinho_card_adicionar_produto_quantidade input {
+    margin-top: -2px;
+}
+#carrinho_card_adicionar_produto textarea {
+    margin-top: -20px;
+    width: 480px;
+    height: 60px;
+    resize: none;
+}
+#carrinho_card_adicionar_produto p {
+    font-size: 18px;
+    line-height: 100%;    
+}
+#carrinho_adicionar_imagem {
+    display: flex;
+    flex-direction: column;
+    margin-right: 12px;
+    margin-top: -32px;
+    padding: 0px;
+}
+#carrinho_adicionar_imagem img {
+    height: 185px;
+    width: 185px;
+    margin: auto;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+}
+#carrinho_adicionar_imagem button {
+    width: 160px;
+    margin: auto;
+    margin-top: 11px;
+    margin-bottom: -11px;
+}
+.carrinho_card_botao_favoritos {
+    position: absolute;
+    left: 40px;
+    bottom: 16px;
+}
+#botao_voltar {
+    position: absolute;
+    margin-top: -6px;
+    font-size: 18px;
+    font-weight: 500;
+}
+#carrinho_pagamento {
+    width: 100%;
+    height: 720px;
+    margin-right: 2px;
+    margin-bottom: 12px;
+    padding: 20px;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    font-size: 18px;
+}
+#preco_entrega {
+    position: absolute;
+    right: 10px;
+    bottom: 122px;
+}
+
+/* Contato */
+
+#mini-website-contato textarea {
+    margin-top: 2px;
+    padding-top: 8px;
+    padding-left: 12px;
+    width: 100%;
+    height: 320px;
+    resize: none;
+    border-color: #ced4da;
+    border-radius: 5px;
+}
+
+@media (max-width: 1199px) {
+    .display_resultados { 
+        display: block;
+    }
+    .opcoes_busca { 
+        margin-bottom: 32px;
+        width: 100%;
+        height: auto;
+    }
+    .opcoes_busca_boxes {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    #mini_website_carrinho {
+        display: flex;
+        flex-wrap: wrap-reverse;
+    }
+    #container_lista_carrinho {
+        margin: auto;
+        margin-top: 12px;
+    }
+    #carrinho_adicionar_produtos {
+        margin: auto;
+        margin-top: 12px;
+    }
+}
+@media (max-width: 991px) {
+    .itens_menu {
+        margin-left: 0px;
+        background-color:#343a40;
+        border: none;
+    }
+    .itens_menu i {
+        width: 25px;
+        margin-top: 5px;
+        margin-left: -16px;
+    }
+    .location_web {
+     display: none;
+    }
+    .location_mobile {
+        display:flex;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    #header_sobrescrito {
+        margin-left: 23px;
+        margin-top: -14px;
+        position: absolute;
+    }
+    #header_sobrescrito_conta {
+        margin-left: 0px;
+    }
+    #endereco_icone {
+        margin-right: 0px;
+        margin-top: -8px;
+    }
+    #modal_mais_detalhes {
+        width: 640px;
+        min-height: 960px;
+        top: 60px;
+        left: 50%;
+        margin-left: -312px;
+    }
+    #informacoes_descricao_produto {
+        height: 480px;
+    }
+    #informacoes_adicionar_carrinho {
+        width: 605px;
+    }
+    #informacoes_adicionar_carrinho textarea {
+        margin-top: -20px;
+        width: 100%;
+        resize: none;
+    }
+    #carrinho_card_adicionar_produto textarea {
+        margin-top: -20px;
+        width: 100%;
+        resize: none;
+    }
+    #mini_website_botao_favoritos {
+        position: relative;
+        right: 0px;
+    }
+    #selecionar_sabor {
+        width: 100px;
+    }
+    #video_apresentacao {
+        height: 480px;
+    }
+}
+@media (max-width: 767px) {
+    .resultado_busca p {
+        font-size: 12px;
+    }
+    .botao_nav_mini_website {
+        font-size: 18px;
+    }
+    .nav_mini_website button { 
+        width: 100%;
+    }
+    .card_produto {
+        width: 100%;
+        max-width: 450px;
+        height: 512px;
+        text-align: center; 
+    }
+    .card_produto img {
+        margin-top: 30px;
+        margin-bottom: 20px;
+        height: 320px;
+        width: 320px;
+    }
+    #modal_mais_detalhes {
+        width: 470px;
+        min-height: 1120px;
+        max-height: 1600px;
+        top: 0px;
+        left: 50%;
+        margin-left: -227px;
+    }    
+    #informacoes_descricao_produto {
+        height: 360px;
+    }
+    #modal_informacoes_produto {
+        padding: 32px;
+        display: block;
+        grid-template-columns: 262px auto;
+    }
+    #informacoes_adicionar_carrinho {
+        width: 436px;
+    }
+    #informacoes_adicionar_carrinho img {
+        display: none;
+    }
+    #selecionar_sabor {
+        width: 140px;
+        margin-right: 8px;
+    }
+    #card_adicionar_produto {
+        display: grid;
+        grid-template-columns: auto;
+    }
+    #carrinho_card_adicionar_produto {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: auto;
+        position: relative;
+        padding: 20px;
+        min-height: 540px;
+        border: 1px solid #ced4da;
+        border-radius: 5px;
+        margin-bottom: 12px;
+    }
+    #carrinho_adicionar_imagem {
+        margin-bottom: -32px;
+    }
+    #carrinho_adicionar_imagem img {
+        height: 240px;
+        width: 240px;
+    }
+    #carrinho_adicionar_info {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    #carrinho_card_botao_favoritos {
+        left: 16px;
+    }
+    #carrinho_contador {
+        height: 24px;
+        width: 24px;
+        bottom: -12px;
+        left: 12px;
+        font-size: 16px;
+    }
+    #gerenciar_mini_website_informacoes_imagem_descricao {
+        display: grid;
+        grid-template-columns: auto;
+    }
+    #video_apresentacao {
+        height: 360px;
+    }
+    #mudar_imagem_produto_container, #gerenciar_produto_nome {
+        padding-right: 0;
+    }
+}
+@media (max-width: 575px) {
+    #busca_homepage {
+    border-radius: 0px;
+    }
+    .opcoes_busca { 
+        margin-top: 0px;
+        border-radius: 0px;
+    }
+    #container_nav_mini_website {
+        border-radius: 0px;
+    }
+    .botao_nav_mini_website {
+        font-size: 16px;
+    }
+    #mini_website_quem_somos img {
+        display: flex;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 12px;
+        float: none;
+    }
+    #video_apresentacao {
+        height: 320px;
+    }
+}
+@media (max-width: 535px) {
+    #modal_mais_detalhes {
+        width: 420px;
+        margin-left: -202px;
+    }    
+    #modal_botao_favoritos {
+        font-size: 14px;
+        right: 40px;
+    } 
+    #informacoes_adicionar_carrinho {
+        width: 386px;
+    }
+    .botao_nav_mini_website {
+        font-size: 14px;
+    }
+    .nav_mini_website button { 
+        margin: 6px;
+    }
+    #selecionar_sabor {
+        width: 120px;
+        margin-right: 8px;
+    }
+}
+footer {
+    background-color: #dddddd;
+}
+#footer-redes-sociais i, #mini_website_redes_sociais i {
+    color: #aaaaaa;
+    padding: 2%;
+}
+#footer-redes-sociais i:hover, #mini_website_redes_sociais i:hover {
+    color: #222222;
+    text-decoration: none;
+}
+
+/* ----- */
