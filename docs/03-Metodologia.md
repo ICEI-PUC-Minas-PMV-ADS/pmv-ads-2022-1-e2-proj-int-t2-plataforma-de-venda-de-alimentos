@@ -6,10 +6,10 @@ Nesta seção estão descritas as ferramentas utilizadas na manutenção dos có
 
 Os artefatos do projeto são elaborados prioritariamente por meio da plataforma GitHub e suas ferramentas internas para diferentes propósitos, com exceção da plataforma utilizada para projeto de interface e wireframes,  conforme descrito na tabela a seguir.
 
-- `Repositório de código fonte`: [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo_1)
-- `Documentos do Projeto`: [GitHub Docs](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo_1/tree/main/docs)
-- `Gerenciamento do projeto`: [GitHub Projects](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo_1/projects/2)
-- `Projeto de Interface e Wireframes`: [MarvelApp](https://marvelapp.com/prototype/ci07gg3)
+- `Repositório de código fonte`:
+- `Documentos do Projeto`: 
+- `Gerenciamento do projeto`:
+- `Projeto de Interface e Wireframes`:
 
 ## Gestão de código fonte 
 
@@ -49,10 +49,10 @@ Além disso, como forma de aprimorar sua organização, cada nova tarefa criada 
 
 A equipe está organizada de acordo com o organograma a seguir:
 
--	`Scrum Master`: José Wilson
--	`Product Owner`: Raphael Latini
+-	`Scrum Master`: Raphael Latini
+-	`Product Owner`: José wilson
 -	`Equipe de Desenvolvimento`:Arthur Rocha, Fabíola Lourdes, Felipe Moreira, Livia Cristina, Lucas Araújo, Raphael Latini e Webert Figueiredo
--	`Equipe de Design`: Guilherme da Silva Moreira
+-	`Equipe de Design`: Arthur Rocha
 
 ### Ferramentas
  
@@ -60,3 +60,4 @@ A equipe está organizada de acordo com o organograma a seguir:
 > - [Microsoft Teams](https://teams.microsoft.com/)
 > - [WhatsApp](https://web.whatsapp.com/)
 > - [Visual Studio Code](https://code.visualstudio.com/)
+> - [visual studio] (https://visualstudio.microsoft.com/pt-br/)
