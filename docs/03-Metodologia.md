@@ -31,9 +31,9 @@ A equipe segue como referência as metodologias ágeis, mais especificamente a m
 - `Done`: atividades desenvolvidas e testadas, assinaladas como concluídas para que sejam incorporadas à branch principal do produto.
 - `Blocked`: atividades bloqueadas por algum impedimento técnico. Devem ser acompanhadas de comentário detalhado descrevendo o motivo do impedimento para ajudar em sua resolução.
 
-O quadro de tarefas do grupo está disponível [neste link na plataforma GitHub Projects](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo_1/projects/2) e pode ser visualizado na figura a seguir.
+O quadro de tarefas do grupo está disponível [neste link na plataforma GitHub Projects](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t2-plataforma-de-venda-de-alimentos/projects/1) e pode ser visualizado na figura a seguir.
 
-![image](https://user-images.githubusercontent.com/90944344/134843373-37333cb7-5247-4f78-b575-90c436f3cfeb.png)
+![image](https://user-images.githubusercontent.com/85761080/159365698-39ba1f8a-a819-44fb-9628-9aa0da174359.png)
 <p align="center">
 <b>Figura - Quadro de tarefas utilizado pelo grupo com base na metodologia Scrum</b>
 </p>
