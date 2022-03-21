@@ -39,7 +39,9 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+- `Product Owner`: José Wilson
+- `Scrum Master`: Raphael Latini
+- `Equipe de Desenvolvimento`: Arthur Rocha, Fabíola Lourdes, Felipe Moreira, Lívia Cristina, Lucas 
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
