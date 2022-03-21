@@ -50,8 +50,8 @@ Além disso, como forma de aprimorar sua organização, cada nova tarefa criada 
 A equipe está organizada de acordo com o organograma a seguir:
 
 -	`Scrum Master`: José Wilson
--	`Product Owner`: Sérgio Raphael Latini
--	`Equipe de Desenvolvimento`: Mauro Jorge de Albuquerque Barreto, Heloisa Soares Ferreira, Raphael do Carmo Latini, Lucas Junior dos Santos, Flávia Cristina de Gomes Souza
+-	`Product Owner`: Raphael Latini
+-	`Equipe de Desenvolvimento`:Arthur Rocha, Fabíola Lourdes, Felipe Moreira, Livia Cristina, Lucas Araújo, Raphael Latini e Webert Figueiredo
 -	`Equipe de Design`: Guilherme da Silva Moreira
 
 ### Ferramentas
