@@ -27,6 +27,12 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 ![Diagrama em branco (1)](https://user-images.githubusercontent.com/90793001/161868919-6ae00194-4e3b-4214-ac0d-9a7bf32b3c31.png)
 
+## Diagrama de Fluxo
+
+O diagrama de fluxo de dados (DFD) é considerado uma das principais ferramentas adotadas em projetos de Sistemas da Informação. Ele consiste em uma representação gráfica de como as informações se movem em meio aos processos de um sistema.
+
+![Diagrama de uso applanches - Copia_page-0001](https://user-images.githubusercontent.com/85761080/162634732-28286c10-265b-4b01-9bf0-7d8f2c8bb03c.jpg)
+
 
 
 ## Tecnologias Utilizadas
