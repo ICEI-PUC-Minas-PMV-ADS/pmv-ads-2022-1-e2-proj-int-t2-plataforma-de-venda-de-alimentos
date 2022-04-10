@@ -8,7 +8,8 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-![Diagramas de Classe UML applanches](https://user-images.githubusercontent.com/90793001/161868285-5b3b4284-24ef-4c60-ac21-f5bd53fd7475.png)
+Diagrama de Classes UML ![image](https://user-images.githubusercontent.com/91296105/162643753-c84be7da-fe3b-4d86-b86c-fecf30d35a26.png)
+
 
 ## Modelo ER
 
@@ -37,11 +38,5 @@ O diagrama de fluxo de dados (DFD) é considerado uma das principais ferramentas
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
-
-## Hospedagem
-
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+O Diagrama de Classes foi realizano na ferramenta Astah, já os Diagramas de Fluxo, Modelo Er e Esquema Relacional foram feitas na plataforma Miro.
 
