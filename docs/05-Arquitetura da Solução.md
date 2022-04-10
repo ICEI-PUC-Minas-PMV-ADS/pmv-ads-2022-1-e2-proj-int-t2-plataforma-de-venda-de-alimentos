@@ -38,5 +38,5 @@ O diagrama de fluxo de dados (DFD) é considerado uma das principais ferramentas
 
 ## Tecnologias Utilizadas
 
-O Diagrama de Classes foi realizano na ferramenta Astah, já os Diagramas de Fluxo, Modelo Er e Esquema Relacional foram feitas na plataforma Miro.
+O Diagrama de Classes foi realizano na ferramenta Astah, já os Diagramas de Fluxo, Modelo Er e Esquema Relacional foram feitas na plataforma Lucidchart.
 
