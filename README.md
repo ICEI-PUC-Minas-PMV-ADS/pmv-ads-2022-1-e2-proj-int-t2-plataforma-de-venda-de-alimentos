@@ -13,7 +13,7 @@ Plataforma destinada a clientes que desejam localizar e comprar produtos aliment
 * Arthur Rocha
 * Fabíola Lourdes
 * Felipe Moreira
-* Livia Cristina 
+* Lívia Cristina 
 * Lucas Araújo
 * Raphael do Carmo Latini
 * Webert Figueiredo
