@@ -2,7 +2,7 @@
 
 `CURSO`: Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`: Projeto: Desenvolvimento de Aplicação Web Front-End
+`DISCIPLINA`: Projeto: Desenvolvimento de Aplicação Web Back-End
 
 `SEMESTRE`: 2º Semestre (2022/1)
 
