@@ -8,11 +8,11 @@ As personas elaboradas no processo de compreeensão do problema estão listadas 
 |Rosana Martins      | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![image](https://user-images.githubusercontent.com/74699119/135755949-e7fdd430-0fa9-49cc-905d-49746b5d273d.png)| **Idade:** 64 <br> **Ocupação:** Aposentada e  microempreendedora no<br>ramo alimentício de salgados,doces e bolos |**Aplicativos:**<br>● Instagram<br>● Facebook<br>●  Blog|
-|**Motivações:**<br>● Qualidade de vida<br>● Cuidar dos netos|**Frustrações:**<br>● Não ter investido no ramo alimentíciode<br> maneira mais forte quando eu podia|**Hobbies:**<br>● História<br>● Cozinhar <br>● Viajar |
+|**Motivações:**<br>● Qualidade de vida<br>● Cuidar dos netos|**Frustrações:**<br>● Não ter conhecimento dos serviços de Delivery antes.|**Hobbies:**<br>● História<br>● Cozinhar <br>● Viajar |
 
 |Jéssica Silveira    | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![image](https://user-images.githubusercontent.com/74699119/135757016-f7705348-1f91-44a7-8fef-ea64e5a43dc0.png)| **Idade:** 28 <br> **Ocupação:** Secretária e confeiteira<br> (possui um micro negócio de venda doces) |**Aplicativos:**<br>● Instagram<br>● Facebook<br>●  Whatsapp|
+|![image](https://user-images.githubusercontent.com/74699119/135757016-f7705348-1f91-44a7-8fef-ea64e5a43dc0.png)| **Idade:** 28 <br> **Ocupação:** Secretária e confeiteira<br> |**Aplicativos:**<br>● Instagram<br>● Facebook<br>●  Whatsapp|
 |**Motivações:**<br>● Complementar sua<br>renda vendendo doces<br>● Praticar seu hobby<br>de fazer doces|**Frustrações:**<br>● Falta de emprego em sua área<br> de formação da faculdade<br>● Dificuldade em expandir seu negócio de venda  <br>de doces|**Hobbies:**<br>● Fazer doces<br>● Arte <br>● Viajar |
 
 |Felipe Santos       | Informações:                       |                                        |
@@ -36,7 +36,7 @@ Com base na interpretação da realidade das personas identificadas para este pr
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Rosana Martins      | Modernizar minha forma de vender<br> meus produtos| Melhor aceitação no mercado |
+|Rosana Martins      | Modernizar minha forma de pedir alimentos<br>| Não ter trabalho de sair de casa |
 |Rosana Martins      | Divulgar meus produtos de forma <br> eficiente e com baixo custo.| Atingir o público certo no momento certo |
 |Rosana Martins      | Realizar entrega através do delivery | Aumentar as vendas e o público atingido |
 |Jéssica Silveira    | Uma plataforma que permita exibir <br> meu cardápio de doces e expor <br> melhor os meus produtos| Poder oferecer um catálogo mais intuitivo <br> para o cliente |
