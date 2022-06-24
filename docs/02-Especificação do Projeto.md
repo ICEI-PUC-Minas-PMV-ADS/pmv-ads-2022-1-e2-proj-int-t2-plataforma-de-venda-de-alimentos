@@ -7,13 +7,13 @@ As personas elaboradas no processo de compreeensão do problema estão listadas 
   
 |Rosana Martins      | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![image](https://user-images.githubusercontent.com/74699119/135755949-e7fdd430-0fa9-49cc-905d-49746b5d273d.png)| **Idade:** 64 <br> **Ocupação:** Aposentada e  microempreendedora no<br>ramo alimentício de salgados,doces e bolos |**Aplicativos:**<br>● Instagram<br>● Facebook<br>●  Blog|
+|![image](https://user-images.githubusercontent.com/74699119/135755949-e7fdd430-0fa9-49cc-905d-49746b5d273d.png)| **Idade:** 64 <br> **Ocupação:** Aposentada|**Aplicativos:**<br>● Instagram<br>● Facebook<br>●  Blog|
 |**Motivações:**<br>● Qualidade de vida<br>● Cuidar dos netos|**Frustrações:**<br>● Não ter conhecimento dos serviços de Delivery antes.|**Hobbies:**<br>● História<br>● Cozinhar <br>● Viajar |
 
 |Jéssica Silveira    | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![image](https://user-images.githubusercontent.com/74699119/135757016-f7705348-1f91-44a7-8fef-ea64e5a43dc0.png)| **Idade:** 28 <br> **Ocupação:** Secretária e confeiteira<br> |**Aplicativos:**<br>● Instagram<br>● Facebook<br>●  Whatsapp|
-|**Motivações:**<br>● Complementar sua<br>renda vendendo doces<br>● Praticar seu hobby<br>de fazer doces|**Frustrações:**<br>● Falta de emprego em sua área<br> de formação da faculdade<br>● Dificuldade em expandir seu negócio de venda  <br>de doces|**Hobbies:**<br>● Fazer doces<br>● Arte <br>● Viajar |
+|**Motivações:**<br>● Poder pedir lanches no conforto de casa<br> |**Frustrações:**<br>● Falta de emprego em sua área<br> de formação da faculdade<br><br>de doces|**Hobbies:**<br>● Fazer doces<br>● Arte <br>● Viajar |
 
 |Felipe Santos       | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
