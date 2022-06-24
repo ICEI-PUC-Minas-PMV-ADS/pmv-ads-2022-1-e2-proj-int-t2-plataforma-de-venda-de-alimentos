@@ -6,7 +6,7 @@
 
 `SEMESTRE`: 2º Semestre (2022/1)
 
-Plataforma destinada a clientes que desejam localizar e comprar produtos alimentícios produzidos por microempreendedores do ramo próximos à sua localidade. Tem como objetivo fornecer a fácil inserção de microempreendedores do ramo alimentício no ambiente online através do cadastro de sua loja na plataforma e permitir que possíveis clientes interessados tenham acesso ao seu catálogo de produtos e possam realizar pedidos online.
+Plataforma destinada a clientes que desejam localizar e comprar produtos alimentícios. Tem como objetivo suprir as necessidades do cliente fazendo com que não seja preciso sair do conforto de sua casa, oferecendo serviços no ambiente online. O cadastro na plataforma permite que possíveis clientes interessados tenham acesso aos produtos e possam realizar pedidos online.
 
 ## Integrantes
 
